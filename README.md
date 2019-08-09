@@ -1,4 +1,10 @@
 # marcos..github.io
+~ $ https://github.com/oliveira-marcos2/marcos..github.io.git
+~ $git add --all
+
+~ $git commit -m "Confirmação inicial"
+
+~ $ git push -u origem mestre
 <!DOCTYPEhtml>
 <html lang="pt-br">
   <head>
